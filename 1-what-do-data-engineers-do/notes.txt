@@ -1,0 +1,7 @@
+what do engineers do?
+--> Move Data between systems Extract Transform and Load
+--> Manage Data Warehouses
+--> Schedule, Execute and Monitor Pipelines
+--> Serve data to end users
+--> Data Strategy for company
+--> Delpoy ML Models to production

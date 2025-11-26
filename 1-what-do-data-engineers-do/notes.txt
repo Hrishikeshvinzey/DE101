@@ -5,3 +5,11 @@ what do engineers do?
 --> Serve data to end users
 --> Data Strategy for company
 --> Delpoy ML Models to production
+
+How would I go about it?
+Requirement gathering -- 
+  What fields are the end users for data interested in?
+  What kind of time frame do they want for data metrics?
+  Who will be the primary users of these reports?
+  what are the sources for these fields users want to see?
+  what are the application architecture already setup? What kind of Infrastructure can be used? can I have access to it?
